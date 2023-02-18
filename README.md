@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="left" width = "240" height="230" vertical-align: "middle" src="https://media.tenor.com/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
+<img align="left" width = "240" height="230" src="https://media.tenor.com/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
 
 ###
 
