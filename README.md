@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="left" height="228" src="https://media.tenor.com/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
+<img align="left" height="200" src="https://media.tenor.com/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
 
 ###
 
