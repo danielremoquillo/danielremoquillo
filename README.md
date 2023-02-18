@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">     👨‍💻 Currently working on FilSignLearn(FSL) application.<br><br>   📚 I'm currently learning how to survive college.<br><br>   🔥 Future Full Stack Developer.<br><br>   📨 DM me here: remoquillodr@gmail.com<br><br>    ⚡ “No one knows what the future holds. That’s why its potential is infinite.”</p>
+<p align="left">	&nbsp;👨‍💻 Currently working on FilSignLearn(FSL) application.<br><br>   📚 I'm currently learning how to survive college.<br><br>   🔥 Future Full Stack Developer.<br><br>   📨 DM me here: remoquillodr@gmail.com<br><br>    ⚡ “No one knows what the future holds. That’s why its potential is infinite.”</p>
 
 ###
 
