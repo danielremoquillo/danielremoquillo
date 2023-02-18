@@ -12,11 +12,11 @@
 
 <br clear="both">
 
-<img align="left" height="240" src="https://media.tenor.com/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
+<img  style="margin-right: 20px" align="left" height="240" src="https://media.tenor.com/aSaYnI7L9b0AAAAC/bocchi-the-rock-bocchi.gif"  />
 
 ###
 
-<p align="left" style="margin-left: 20px">    👨‍💻 Currently working on FilSignLearn(FSL) application.<br><br>   📚 I'm currently learning how to survive college.<br><br>   🔥 Future Full Stack Developer.<br><br>   📨 DM me here: remoquillodr@gmail.com<br><br>    ⚡ “No one knows what the future holds. That’s why its potential is infinite.”</p>
+<p align="left">    👨‍💻 Currently working on FilSignLearn(FSL) application.<br><br>   📚 I'm currently learning how to survive college.<br><br>   🔥 Future Full Stack Developer.<br><br>   📨 DM me here: remoquillodr@gmail.com<br><br>    ⚡ “No one knows what the future holds. That’s why its potential is infinite.”</p>
 
 ###
 
