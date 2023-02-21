@@ -2,7 +2,7 @@
 <h3 align="center">A passionate not yet developer from Philippines.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on **FilSignLearn : An Interactive Mobile-based Application for Learning Filipino Sign Language**<br>🌱 I’m currently learning Flutter, Laravel and ui/ux designing.<br>📫 How to reach me remoquillodr@gmail.com<br>⚡ Fun fact: **There's no fun fact**.
+🔭 I’m currently working on **FilSignLearn : An Interactive Mobile-based Application for Learning Filipino Sign Language**<br>🌱 I’m currently learning Flutter, Laravel and UI/UX designing.<br>📫 How to reach me remoquillodr@gmail.com<br>⚡ Fun fact: **There's no fun fact**.
 
 
 # 🌐 Socials:
