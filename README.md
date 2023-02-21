@@ -5,7 +5,7 @@
 🔭 I’m currently working on **FilSignLearn : An Interactive Mobile-based Application for Learning Filipino Sign Language**<br>🌱 I’m currently learning Flutter, Laravel and ui/ux designing.<br>📫 How to reach me remoquillodr@gmail.com<br>⚡ Fun fact: **There's no fun fact**.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dnl8100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnl8100) 
 
 # 💻 Tech Stack:
